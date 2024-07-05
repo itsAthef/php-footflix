@@ -96,6 +96,7 @@ $conn->close();
 
 <footer>
     <p>&copy; Footflix 2024. All Rights Reserved.</p>
+    <p>By Athef</p>
 </footer>
 
 </body>
