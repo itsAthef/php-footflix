@@ -1,0 +1,85 @@
+body {
+    background-color: #f8f9fa;
+    color: #0C121C;
+}
+.navbar {
+    background-color: #0C121C;
+}
+.navbar a {
+    color: #FAD300 ;
+}
+
+.navbar-brand {
+    color: #FAD300;
+}
+.banner {
+    background-image: url('banner.jpeg');
+    background-size: cover;
+    background-position: center;
+    height: 300px;
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 3rem;
+    text-shadow: 2px 2px 4px #000000;
+}
+h1 {
+    color: #FAD300;
+    margin: 20px;
+    text-align: center;
+}
+.container {
+    background-color: #fff;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    margin-top: 20px;
+}
+.btn-sporty {
+    background-color: #FAD300;
+    border-color: #FAD300;
+    color: #0C121C;
+}
+.btn-sporty:hover {
+    background-color: #d4b200;
+    border-color: #d4b200;
+    color: #0C121C;
+}
+.btn-sporty.delete {
+    background-color: #dc3545;
+    border-color: #dc3545;
+    color: #fff;
+}
+.btn-sporty.delete:hover {
+    background-color: #c82333;
+    border-color: #c82333;
+    color: #fff;
+}
+.btn-sporty.update {
+    background-color: #ffc107;
+    border-color: #ffc107;
+    color: #0C121C;
+}
+.btn-sporty.update:hover {
+    background-color: #e0a800;
+    border-color: #d39e00;
+    color: #0C121C;
+}
+.card-header {
+    background-color: #0C121C;
+    color: #FAD300;
+}
+.card-body {
+    background-color: #f8f9fa;
+}
+.form-control {
+    border-radius: 4px;
+}
+footer {
+    background-color: #0C121C;
+    color: #FAD300;
+    padding: 20px 0;
+    text-align: center;
+    margin-top: 20px;
+}
